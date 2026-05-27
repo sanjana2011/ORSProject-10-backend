@@ -9,4 +9,4 @@ import com.rays.dto.EventDTO;
 @Service
 @Transactional
 public class EventServiceImpl extends BaseServiceImpl<EventDTO, EventDAOInt> implements EventServiceInt {
-}
+}  
