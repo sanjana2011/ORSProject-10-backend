@@ -8,7 +8,7 @@ import com.rays.common.BaseDTO;
 
 @Entity
 @Table(name = "st_event")
-public class EventDTO extends BaseDTO {
+public class EventDTO extends BaseDTO {  
 
 	@Column(name = "event_name", length = 50)
 	private String eventName;
