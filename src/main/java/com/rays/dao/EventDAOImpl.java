@@ -11,7 +11,7 @@ import org.springframework.stereotype.Repository;
 import com.rays.common.BaseDAOImpl;
 import com.rays.common.UserContext;
 import com.rays.dto.CollegeDTO;
-import com.rays.dto.EventDTO;
+import com.rays.dto.EventDTO; 
 
 @Repository
 public class EventDAOImpl extends BaseDAOImpl<EventDTO> implements EventDAOInt {
