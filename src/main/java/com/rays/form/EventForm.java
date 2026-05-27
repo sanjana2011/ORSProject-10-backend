@@ -5,7 +5,7 @@ import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
 import com.rays.common.BaseDTO;
 import com.rays.common.BaseForm;
-import com.rays.dto.EventDTO;
+import com.rays.dto.EventDTO; 
 
 public class EventForm extends BaseForm {
 
