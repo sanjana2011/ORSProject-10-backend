@@ -5,3 +5,4 @@ import com.rays.dto.EventDTO;
 
 public interface EventDAOInt extends BaseDAOInt<EventDTO> {
 }
+    
