@@ -57,3 +57,4 @@ public class EventDAOImpl extends BaseDAOImpl<EventDTO> implements EventDAOInt {
         return whereCondition;
     }
 }
+    
