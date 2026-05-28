@@ -10,3 +10,4 @@ import com.rays.dto.EventDTO;
 @Transactional
 public class EventServiceImpl extends BaseServiceImpl<EventDTO, EventDAOInt> implements EventServiceInt {
 }  
+   
