@@ -90,3 +90,4 @@ public class EventDTO extends BaseDTO {
 		return collegeName;
 	}
 }
+    
