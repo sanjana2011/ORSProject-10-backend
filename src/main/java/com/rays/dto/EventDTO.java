@@ -84,7 +84,7 @@ public class EventDTO extends BaseDTO {
 	public String getTableName() {
 		return "Event";
 	}
-
+  
 	@Override
 	public String getValue() {
 		return collegeName;
