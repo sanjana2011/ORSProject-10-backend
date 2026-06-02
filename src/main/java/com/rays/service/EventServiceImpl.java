@@ -11,3 +11,4 @@ import com.rays.dto.EventDTO;
 public class EventServiceImpl extends BaseServiceImpl<EventDTO, EventDAOInt> implements EventServiceInt {
 }  
    
+   
