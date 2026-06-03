@@ -7,3 +7,4 @@ public interface EventDAOInt extends BaseDAOInt<EventDTO> {
 }
     
    
+   
