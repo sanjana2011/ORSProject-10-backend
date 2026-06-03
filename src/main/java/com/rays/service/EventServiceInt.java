@@ -7,4 +7,4 @@ public interface EventServiceInt extends BaseServiceInt<EventDTO> {
 }
     
    
-   
+      
