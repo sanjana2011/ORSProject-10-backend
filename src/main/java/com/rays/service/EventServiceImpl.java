@@ -12,4 +12,4 @@ public class EventServiceImpl extends BaseServiceImpl<EventDTO, EventDAOInt> imp
 }  
    
    
-   
+     
