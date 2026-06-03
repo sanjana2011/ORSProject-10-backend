@@ -6,3 +6,4 @@ import com.rays.dto.EventDTO;
 public interface EventServiceInt extends BaseServiceInt<EventDTO> { 
 }
     
+   
